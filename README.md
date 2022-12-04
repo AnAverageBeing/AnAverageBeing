@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yatharthrathi.rathi@gmail.com**
 
-- ⚡ Fun fact **I am class clown**
+- ⚡ Fun fact **I am FUNNY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
