@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [xDStresser](https://github.com/AnAverageBeing/xDStresser)
 
-- 🌱 I’m currently learning **AI, netty, libgdx, lwjgl**
+- 🌱 I’m currently learning **AI, netty, golang, lol lvl programming**
 
 - 💬 Ask me about **Java and stuff**
 
