@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaveragebeing&label=Profile%20views&color=0e75b6&style=flat" alt="anaveragebeing" /> </p>
 
-- 🔭 I’m currently working on [Asura](https://github.com/AnAverageBeing/Asura)
+- 🔭 I’m currently working on [xDStresser](https://github.com/AnAverageBeing/xDStresser)
 
 - 🌱 I’m currently learning **AI, netty, libgdx, lwjgl**
 
