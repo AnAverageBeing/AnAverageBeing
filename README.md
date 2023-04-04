@@ -8,6 +8,7 @@
 Wallet <code>monero:49rgUBhYpXnKNj7J6jm92CWWGJdR6rRRsC7CfK3f3b9ohLWavJcdkJWY4XNzy82kbgPao6bcrgURxKZ3o948CnqaTGepy4T</code>
 </p>
 
+<h2> About Me </h2>
 - 🔭 I’m currently working on **MyFirstGame**
 
 - 🌱 I’m currently learning **AI, netty, golang, rust, x86 Assembly, lvl programming and networking**
