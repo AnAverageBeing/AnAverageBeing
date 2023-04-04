@@ -2,7 +2,9 @@
 <h3 align="center">A passionate computer science student from India 🇮🇳</h3>
 
 <h3 align="center">Donate Me</h3>
+<p>
 Wallet <code>monero:49rgUBhYpXnKNj7J6jm92CWWGJdR6rRRsC7CfK3f3b9ohLWavJcdkJWY4XNzy82kbgPao6bcrgURxKZ3o948CnqaTGepy4T</code>
+</p>
 ![moneroqr](https://raw.githubusercontent.com/AnAverageBeing/AnAverageBeing/master/assets/moneroqr.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaveragebeing&label=Profile%20views&color=0e75b6&style=flat" alt="anaveragebeing" /> </p>
