@@ -8,20 +8,14 @@
 
 
 <h2> About Me </h2>
-
-- 🔭 I’m currently working on **MyFirstGame**
-
-- 🌱 I’m currently learning **AI, netty, golang, rust, x86 Assembly, lvl programming and networking**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **averagebeing@proton.me**
-
-- ⚡ Fun fact **I use github as backup storage for my code**
-
-- ❤️ I love **go, linux, CLI, networking, backend stuf**
-
-- **"I use Arch, BTW."**
+<ul>
+  <li>I’m currently working on <strong>Iris</strong> a network of workers</li>
+  <li>I’m currently learning <b>frontend, typescript, cryptography and encryption</b></li>
+  <li>How to reach me <strong>anaveragebeing@fbi.ac</strong></li>
+  <li>Fun fact <b>I use github as backup storage for my code</b></li>
+  <li>I love <b>go, linux, CLI, networking, backend stuf</b></li>
+  <li><b><em><strong>"I use Arch, BTW."</strong></em></b></li>
+</ul>
 
 ### Here is my simple KDE Plasma rice
 ![image](https://user-images.githubusercontent.com/84959276/229879744-b61e5d07-dcb4-45c2-ab30-76aa33461ac1.png)
