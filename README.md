@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaveragebeing&label=Profile%20views&color=0e75b6&style=flat" alt="anaveragebeing" /> </p>
 
 <h3 align="left">Donate Me:</h3>
-<img src="assets/qr.svg">
+
+<img src="assets/qr.svg" width="50" height="50">
 <code>monero:49rgUBhYpXnKNj7J6jm92CWWGJdR6rRRsC7CfK3f3b9ohLWavJcdkJWY4XNzy82kbgPao6bcrgURxKZ3o948CnqaTGepy4T</code>
 
 
