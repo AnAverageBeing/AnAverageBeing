@@ -5,7 +5,7 @@
 
 <h3 align="left">Donate Me:</h3>
 
-<img src="assets/qr.svg" width="50" height="50">
+<img src="assets/qr.svg" width="200" height="200">
 <code>monero:49rgUBhYpXnKNj7J6jm92CWWGJdR6rRRsC7CfK3f3b9ohLWavJcdkJWY4XNzy82kbgPao6bcrgURxKZ3o948CnqaTGepy4T</code>
 
 
