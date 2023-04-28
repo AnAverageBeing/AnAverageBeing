@@ -11,7 +11,7 @@
 
 <h2> About Me </h2>
 <ul>
-  <li>I’m currently working on <strong>Iris</strong> a network of workers</li>
+  <li>I’m currently working on <strong>Iris</strong> a anon chat app</li>
   <li>I’m currently learning <b>frontend, typescript, cryptography and encryption</b></li>
   <li>How to reach me <strong>anaveragebeing@fbi.ac</strong></li>
   <li>Fun fact <b>I use github as backup storage for my code</b></li>
