@@ -3,16 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaveragebeing&label=Profile%20views&color=0e75b6&style=flat" alt="anaveragebeing" /> </p>
 
-<h3 align="left">Donate Me:</h3>
-
-<img src="assets/qr.svg" width="200" height="200">
-<code>monero:49rgUBhYpXnKNj7J6jm92CWWGJdR6rRRsC7CfK3f3b9ohLWavJcdkJWY4XNzy82kbgPao6bcrgURxKZ3o948CnqaTGepy4T</code>
-
-
 <h2> About Me </h2>
 <ul>
-  <li>I’m currently working on <strong>Iris</strong> an anonymous chat app</li>
-  <li>I’m currently learning <b>frontend, typescript, cryptography and encryption</b></li>
+  <li>I’m currently working on <strong>Serenia</strong> my first game.</li>
+  <li>I’m currently learning <b>game dev and networking</b></li>
   <li>How to reach me <strong>anaveragebeing@fbi.ac</strong></li>
   <li>Fun fact <b>I use github as backup storage for my code</b></li>
   <li>I love <b>go, linux, CLI, networking, backend stuf</b></li>
