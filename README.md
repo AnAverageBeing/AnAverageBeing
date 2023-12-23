@@ -5,7 +5,7 @@
 
 <h2> About Me </h2>
 <ul>
-  <li>I’m currently working on <strong>Serenia</strong> my first game.</li>
+  <li>I’m currently working on my first game.</li>
   <li>I’m currently learning <b>game dev and networking</b></li>
   <li>How to reach me <strong>anaveragebeing@fbi.ac</strong></li>
   <li>Fun fact <b>I use github as backup storage for my code</b></li>
