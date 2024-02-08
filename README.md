@@ -9,7 +9,7 @@
   <li>I’m currently learning <b>game dev and networking</b></li>
   <li>How to reach me <strong>anaveragebeing@fbi.ac</strong></li>
   <li>Fun fact <b>I use github as backup storage for my code</b></li>
-  <li>I love <b>go, linux, CLI, networking, backend stuf</b></li>
+  <li>I love <b>C, Go, Systems programing, Game Dev and learning about Low Level Stuff</b></li>
   <li><b><em><strong>"I use Arch, BTW."</strong></em></b></li>
 </ul>
 
