@@ -14,7 +14,8 @@
 </ul>
 
 ### Here is my simple KDE Plasma rice
-![image](https://user-images.githubusercontent.com/84959276/229879744-b61e5d07-dcb4-45c2-ab30-76aa33461ac1.png)
+![image](https://github.com/AnAverageBeing/AnAverageBeing/assets/84959276/e19b46fc-061c-4a05-b5ee-21bdee7362a7)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
